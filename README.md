@@ -6,10 +6,6 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Visualization](#visualization)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 This project is an implementation of the R-Tree data structure in C using the CodeBlocks IDE. R-Trees are tree data structures used for indexing multi-dimensional information such as geographical coordinates, rectangles, and polygons. This implementation also includes a visualization component utilizing the SDL (Simple DirectMedia Layer) library to help understand the structure and behavior of R-Trees.
@@ -46,6 +42,6 @@ This project is an implementation of the R-Tree data structure in C using the Co
 Once the application is running, you can:
 - Insert rectangles into the R-Tree.
 - Perform range searches and visualize the results.
-- Perform nearest neighbor searche and visualize the results.
+- Perform nearest neighbor search and visualize the results.
 - Observe the structure of the R-Tree as it dynamically updates.
 
