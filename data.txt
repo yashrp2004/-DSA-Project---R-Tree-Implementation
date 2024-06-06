@@ -1,0 +1,15 @@
+100 200 Hotel
+150 250 Hospital
+300 400 Park
+220 180 School
+350 150 Library
+400 500 Restaurant
+600 300 Gym
+700 450 Bank
+800 200 Mall
+850 350 Cafe
+900 600 Stadium
+950 250 Museum
+1000 400 Cinema
+1050 500 Airport
+1100 650 Beach
